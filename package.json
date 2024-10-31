@@ -1,0 +1,14 @@
+{
+  "name": "sw-pw-web-core",
+  "version": "1.0.0",
+  "description": "A Playwright based front-end automation core framework for Sherwin web application ",
+  "main": "index.js",
+  "repository": "https://github.com/austinrr/sw-pw-web-core.git",
+  "author": "Austin Rhodes <austinr@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.5"
+  },
+  "scripts": {}
+}
